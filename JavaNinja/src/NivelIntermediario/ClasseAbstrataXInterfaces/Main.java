@@ -6,6 +6,7 @@ public class Main {
         naruto.nome = "Naruto Uzumaki";
         naruto.aldeia = "Aldeia da folha";
         naruto.idade = 18;
+        naruto.numeroDeMissoesConcluidas = 14;
         naruto.habilidadeEspeciial();
         naruto.estrategiaNinja();
 
@@ -17,6 +18,11 @@ public class Main {
         sasuke.estrategiaNinja();
 
         Uchiha sarada = new Uchiha("Sarada", "Aldeia da Folha", 10);
+        sarada.estrategiaNinja();
+        sarada.habilidadeEspeciial();
+
+        Uzumaki boruto = new Uzumaki("Boruto", "Aldeia da folha", 15, 19, nivelNinja.GENNIN);
+        boruto.estrategiaNinja();
 
 
     }

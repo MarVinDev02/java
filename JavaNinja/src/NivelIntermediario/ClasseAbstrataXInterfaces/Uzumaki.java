@@ -9,12 +9,17 @@ public class Uzumaki extends Ninja {
         super(nome, aldeia, idade);
     }
 
-    public void habilidadeEspeciial(){
-        System.out.println("Sou " + nome + " e esse é meu ataque Uzumaki.");
+    public Uzumaki(String nome, String aldeia, int idade, int numeroDeMissoesConcluidas, nivelNinja rank) {
+        super(nome, aldeia, idade, numeroDeMissoesConcluidas, rank);
     }
+
+    public void habilidadeEspeciial(){
+        System.out.println("Sou " + nome + " e esse é meu ataque Uzumaki. Numero de missões: " + numeroDeMissoesConcluidas);
+    }
+
 
     @Override
     public void estrategiaNinja() {
-        System.out.println("Essa é minha estratégia ninja.");
+        System.out.println("Essa é minha estratégia ninja Uzumaki.");
     }
 }

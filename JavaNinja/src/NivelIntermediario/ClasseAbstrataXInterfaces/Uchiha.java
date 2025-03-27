@@ -13,6 +13,10 @@ public class Uchiha extends Ninja {
         super(nome, aldeia, idade);
     }
 
+    public Uchiha(String nome, String aldeia, int idade, int numeroDeMissoesConcluidas, nivelNinja rank) {
+        super(nome, aldeia, idade, numeroDeMissoesConcluidas, rank);
+    }
+
     @Override
     public void estrategiaNinja() {
         System.out.println("Sou " + nome + " e esse é meu método de batalha.");
