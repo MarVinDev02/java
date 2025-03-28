@@ -13,7 +13,7 @@ public class Uzumaki extends Ninja {
         super(nome, aldeia, idade, numeroDeMissoesConcluidas, rank);
     }
 
-    public void habilidadeEspeciial(){
+    public void habilidadeEspeciial() {
         System.out.println("Sou " + nome + " e esse é meu ataque Uzumaki. Numero de missões: " + numeroDeMissoesConcluidas);
     }
 
@@ -21,5 +21,21 @@ public class Uzumaki extends Ninja {
     @Override
     public void estrategiaNinja() {
         System.out.println("Essa é minha estratégia ninja Uzumaki.");
+    }
+
+    @Override
+    public void inteligenciaDeCombate() {
+        System.out.println("Essa é minha INTELIGENCIA!!!!");
+    }
+
+    @Override
+    public void inteligenciaDeCombate(int qi) {
+        if (qi > 150) {
+            System.out.println("Seu QI é " + qi + " e você é um gênio.");
+        } else if (qi >= 130) {
+            System.out.println("Seu QI é " + qi + " e você é promissor.");
+        } else {
+            System.out.println("Você precisa treinar mais.");
+        }
     }
 }

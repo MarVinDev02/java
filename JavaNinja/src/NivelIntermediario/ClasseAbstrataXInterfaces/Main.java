@@ -24,6 +24,11 @@ public class Main {
         Uzumaki boruto = new Uzumaki("Boruto", "Aldeia da folha", 15, 19, nivelNinja.GENNIN);
         boruto.estrategiaNinja();
 
+        Uchiha madara = new Uchiha();
+        madara.inteligenciaDeCombate();
+        madara.inteligenciaDeCombate(90);
+
+
 
     }
 }
