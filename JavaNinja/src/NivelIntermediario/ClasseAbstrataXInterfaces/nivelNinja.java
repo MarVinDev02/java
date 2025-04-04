@@ -4,5 +4,8 @@ public enum nivelNinja {
     GENNIN,
     CHUNNIN,
     JOUNNIN,
-    KAGE
+    KAGE;
+
+    
 }
+

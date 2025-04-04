@@ -1,4 +1,7 @@
-package NivelIntermediario.ClasseAbstrataXInterfaces;
+package NivelIntermediario.FinalMethods;
+
+import NivelIntermediario.ClasseAbstrataXInterfaces.interfaceNinja;
+import NivelIntermediario.ClasseAbstrataXInterfaces.nivelNinja;
 
 public abstract class Ninja implements interfaceNinja {
     // TODO: Incluir novos 2 atributos, numeroMissoes, rank
@@ -8,6 +11,7 @@ public abstract class Ninja implements interfaceNinja {
     int idade;
     int numeroDeMissoesConcluidas;
     nivelNinja rank;
+    double altura = 2.10;
 
     public Ninja() {
     }
@@ -59,7 +63,7 @@ public abstract class Ninja implements interfaceNinja {
         return "Meu nome é " + nome + " tenho " + idade + " anos e sou da " + aldeia;
     }
 
-    public void tacarKunai(){
+    final public void tacarKunai(){
         System.out.println("SOU UM MÉTODO DA CLASSE MÃE");
     }
 }

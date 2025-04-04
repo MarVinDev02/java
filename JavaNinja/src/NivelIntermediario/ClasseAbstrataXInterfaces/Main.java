@@ -9,6 +9,7 @@ public class Main {
         naruto.numeroDeMissoesConcluidas = 14;
         naruto.habilidadeEspeciial();
         naruto.estrategiaNinja();
+        naruto.tacarKunai();
 
         Uchiha sasuke = new Uchiha();
         sasuke.nome = "Sasuke Uchiha";
@@ -25,11 +26,13 @@ public class Main {
         boruto.estrategiaNinja();
 
         Uchiha madara = new Uchiha();
+        //Metodo comum
         madara.inteligenciaDeCombate();
-        madara.inteligenciaDeCombate(90);
-
-
-
+        //Metodo sobrecarregado
+        madara.inteligenciaDeCombate(160);
+        madara.metodoProvisorio();
+        System.out.println(boruto);
+        madara.tacarKunai();
     }
 }
 
