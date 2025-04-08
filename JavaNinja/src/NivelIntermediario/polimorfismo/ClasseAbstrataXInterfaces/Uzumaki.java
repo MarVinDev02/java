@@ -1,6 +1,4 @@
-package NivelIntermediario.FinalMethods;
-
-import NivelIntermediario.polimorfismo.ClasseAbstrataXInterfaces.nivelNinja;
+package NivelIntermediario.polimorfismo.ClasseAbstrataXInterfaces;
 
 public class Uzumaki extends Ninja {
     public Uzumaki() {
@@ -41,8 +39,8 @@ public class Uzumaki extends Ninja {
         }
     }
 
-//    @Override
-//    public void tacarKunai() {
-//        System.out.println("sou um metodo da classe filha");
-//    }
+    @Override
+    public void tacarKunai() {
+        System.out.println("sou um metodo da classe filha");
+    }
 }

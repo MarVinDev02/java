@@ -1,6 +1,4 @@
-package NivelIntermediario.FinalMethods;
-
-import NivelIntermediario.polimorfismo.ClasseAbstrataXInterfaces.nivelNinja;
+package NivelIntermediario.polimorfismo.ClasseAbstrataXInterfaces;
 
 public class Uchiha extends Ninja {
     @Override
