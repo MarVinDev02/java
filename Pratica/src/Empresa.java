@@ -1,19 +1,19 @@
 import java.util.List;
+import java.util.Scanner;
 
 public class Empresa {
+    
+    Scanner entrada = new Scanner(System.in);
     private List<Funcionario> funcionarios;
     Funcionario funcionario;
-    public void adicionarFuncionario(Funcionario funcionario){
-        char resposta = 'N';
-        while (resposta = ) {
-            
-        }
+
+    public void adicionarFuncionario(Funcionario funcionario) {
         funcionarios.add(funcionario);
     }
 
-    public void listarFuncionarios(){
+    public void listarFuncionarios() {
         System.out.println("Funcionarios: ");
-        for(Funcionario funcionario : funcionarios){
+        for (Funcionario funcionario : funcionarios) {
             System.out.println("Nome: " + funcionario.nome() + " ID: " + funcionario.id());
         }
     }
@@ -26,5 +26,4 @@ public class Empresa {
         this.funcionarios = funcionarios;
     }
 
-    
 }
