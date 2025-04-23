@@ -1,20 +1,22 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Empresa {
-    
+
     Scanner entrada = new Scanner(System.in);
-    private List<Funcionario> funcionarios;
+    private List<Funcionario> funcionarios = new ArrayList<>();
     Funcionario funcionario;
 
     public void adicionarFuncionario(Funcionario funcionario) {
         funcionarios.add(funcionario);
+
     }
 
     public void listarFuncionarios() {
         System.out.println("Funcionarios: ");
         for (Funcionario funcionario : funcionarios) {
-            System.out.println("Nome: " + funcionario.nome() + " ID: " + funcionario.id());
+            System.out.println("Nome: " + funcionario.getNome() + " ID: " + funcionario.getId());
         }
     }
 

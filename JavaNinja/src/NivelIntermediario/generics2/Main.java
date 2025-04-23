@@ -8,5 +8,6 @@ public class Main {
         bolsaNinja.adicionarFerramenta(new Pergaminho("Invocação"));
         System.out.println("Algo");
         bolsaNinja.mostrarFerramentas();
+
     }
 }
