@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4974c9e4-66ee-488f-9869-dd9b52668de3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/JavaNinja.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/condicoes/ScannerDoUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/condicoes/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/condicoes/Ternarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/condicoes/ifElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/desafios/CadastroNinjas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/desafios/Desafio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/tiposDeDados/DadosNaoPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelBasico/tiposDeDados/DadosPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/Anbu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/FinalMethods/interfaceNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Generics/BolsaGenerica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Generics/EquipamentosNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Generics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Haruno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Hyuga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Anbu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Hatake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/HokageAtivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Sobrecarga/interfaceUchihaHatake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/collections/list/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/collections/list/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/enums/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/enums/Missoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/encapsulamento/enums/RankDeMissoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/generics2/BolsaNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/generics2/Kunai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/generics2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/generics2/Pergaminho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/generics2/Shuriken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/interfaceNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClasseAbstrataXInterfaces/nivelNinja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClassesAbstratas/Hokages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClassesAbstratas/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/ClassesAbstratas/Senju.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Construtores/Hokages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Construtores/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Boruto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Haruno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/HarunoUchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Hyuga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/HyugaUzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Sarada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/HerancaEInterface/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Anbu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Hatake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/HokageAtivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/MultiHerancas/interfaceUchihaHatake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Uchiha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/polimorfismo/Uzumaki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/records/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/records/Ninja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/NivelIntermediario/records/NinjaRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/anotacoes/arrays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/anotacoes/memoria-array.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/Camelo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/CoisasDeAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/Leao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNinja/src/pratica/zoo/Papagaio.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xgJS3sj9uvGPjfMsY6AGyvspwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PC_DO_BILL/Documents/java/JavaCurso"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4974c9e4-66ee-488f-9869-dd9b52668de3" name="Changes" comment="" />
+      <created>1748353780453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748353780453</updated>
+    </task>
+    <servers />
+  </component>
+</project>
